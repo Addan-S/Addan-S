@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Syed!
+## An aspiring Software Engineer.
+
+
+<iframe src="https://giphy.com/embed/0BXTSDliIMofTj7Tqm" width="400" height="300" frameBorder="0" ></iframe><p><a href="https://giphy.com/gifs/0BXTSDliIMofTj7Tqm"></a></p>
+
+### Currently prettifying my profile README...
+### Stay tuned for updates!
+
 
 <!--
 **Addan-S/Addan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
