@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Syed!
 ## An aspiring Software Engineer.
 
-
-<iframe src="https://giphy.com/embed/0BXTSDliIMofTj7Tqm" width="400" height="300" frameBorder="0" ></iframe><p><a href="https://giphy.com/gifs/0BXTSDliIMofTj7Tqm"></a></p>
+![Crazy Coder](https://media.giphy.com/media/0BXTSDliIMofTj7Tqm/giphy.gif)
 
 ### Currently prettifying my profile README...
 ### Stay tuned for updates!
