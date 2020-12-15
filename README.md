@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Syed!
+## Hi there, I'm Syed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 ## An aspiring Software Engineer.
 
 ![Crazy Coder](https://media.giphy.com/media/0BXTSDliIMofTj7Tqm/giphy.gif)
